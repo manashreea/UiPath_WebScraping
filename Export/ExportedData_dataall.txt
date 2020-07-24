@@ -1,0 +1,151 @@
+﻿
+        
+  
+  
+      
+          Aston Executive Chair by    Arper    Name    Aston Executive Chair      Brand    Arper      Designer     Jean-Marie Massaud     Range    Aston      Lead    14 weeks      Starting Price (AUD)    Under $3000  
+
+  
+  
+  
+      
+
+  
+
+Aston Swivel Chair by    Arper    Name    Aston Swivel Chair      Brand    Arper      Designer     Jean-Marie Massaud     Range    Aston      Lead    14 weeks      Starting Price (AUD)    Under $3000  
+
+  
+  
+  
+      
+
+  
+
+Aston Lounge by    Arper    Name    Aston Lounge      Brand    Arper      Designer     Jean-Marie Massaud     Range    Aston      Lead    14 weeks      Starting Price (AUD)    Under $5000  
+
+  
+  
+  
+      
+
+  
+
+Aston Low Table by    Arper    Name    Aston Low Table      Brand    Arper      Designer     Jean-Marie Massaud     Range    Aston      Lead    14 weeks      Starting Price (AUD)    Under $1000  
+
+  
+  
+  
+      
+
+  
+
+Aston Synchro by    Arper    Name    Aston Synchro      Brand    Arper      Designer     Jean-Marie Massaud     Range    Aston      Lead    14 weeks      Starting Price (AUD)    Under $3000  
+
+  
+  
+  
+      
+
+  
+
+Babar Barstool by    Arper    Name    Babar Barstool      Brand    Arper      Designer     Simon Pengelly     Range    Babar      Lead    14 weeks      Starting Price (AUD)    Under $750  
+
+  
+  
+  
+      
+
+  
+
+Babar Barstool with Backrest by    Arper    Name    Babar Barstool with Backrest      Brand    Arper      Designer     Simon Pengelly     Range    Babar      Lead    14 weeks      Starting Price (AUD)    Under $750  
+
+  
+  
+  
+      
+
+  
+
+Catifa 80 Lounge Sled by    Arper    Name    Catifa 80 Lounge Sled      Brand    Arper      Designer     Lievore Altherr Molina     Range    Catifa 80      Lead    6 weeks      Starting Price (AUD)    Under $2000  
+
+  
+  
+  
+      
+
+  
+
+Catifa 80 Lounge 4 Way Swivel by    Arper    Name    Catifa 80 Lounge 4 Way Swivel      Brand    Arper      Designer     Lievore Altherr Molina     Range    Catifa 80      Lead    6 weeks      Starting Price (AUD)    Under $3000  
+
+  
+  
+  
+      
+
+  
+
+Catifa 80 Lounge Pedestal Base by    Arper    Name    Catifa 80 Lounge Pedestal Base      Brand    Arper      Designer     Lievore Altherr Molina     Range    Catifa 80      Lead    14 weeks      Starting Price (AUD)    Under $3000  
+
+  
+  
+  
+      
+
+  
+
+Catifa 60 Swivel Chair by    Arper    Name    Catifa 60 Swivel Chair      Brand    Arper      Designer     Lievore Altherr Molina     Range    Catifa 60      Lead    14 weeks      Starting Price (AUD)    Under $3000  
+
+  
+  
+  
+      
+
+  
+
+Catifa 60 Executive by    Arper    Name    Catifa 60 Executive      Brand    Arper      Designer     Lievore Altherr Molina     Range    Catifa 60      Lead    14 weeks      Starting Price (AUD)    Under $3000  
+
+  
+  
+  
+      
+
+  
+
+Catifa 60 High Back Swivel Lounge by    Arper    Name    Catifa 60 High Back Swivel Lounge      Brand    Arper      Designer     Lievore Altherr Molina     Range    Catifa 60      Lead    14 weeks      Starting Price (AUD)    Under $3000  
+
+  
+  
+  
+      
+
+  
+
+Catifa 60 Low Back Lounge by    Arper    Name    Catifa 60 Low Back Lounge      Brand    Arper      Designer     Lievore Altherr Molina     Range    Catifa 60      Lead    6 weeks      Starting Price (AUD)    Under $3000  
+
+  
+  
+  
+      
+
+  
+
+
+  
+      
+  
+    Show More  
+
+  
+  
+  
+  
+  
+
+
+
+<webctrl css-selector='body&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;ul&gt;li' parentid='content' tag='LI' parentclass='quickProduct' idx='1' />
+
+
+<webctrl css-selector='body&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;ul' parentid='content' tag='UL' />
+
+brandValue + ">>" + designerValue + ">>" +rangeValue + ">>" +leadTimeValue + ">>" +startingPriceValue + ">>" + Environment.NewLine.ToString()  + ">>" +descriptionValue + ">>" + Environment.NewLine.ToString() +warrantyValue + ">>" + originManufactureValue
